@@ -17,7 +17,8 @@
 # limitations under the License.
 #
 
-# Some platforms (CentOS 5.8) may not work without this
+# Level the playing field
+node.set['authorization']['sudo']['include_sudoers_d'] = true
 include_recipe "sudo::default"
 
 user_data = data_bag_item(node['admin-user']['data_bag'], node['admin-user']['user'])
