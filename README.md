@@ -13,6 +13,7 @@ Tested on:
 * Ubuntu 10.04
 * Ubuntu 12.04
 * CentOS 6.3
+* CentOS 5.8
 
 with Chef versions `10.18` and `11.04`.
 Assumed to work with other Debian and RedHat based distros as well.
