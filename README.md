@@ -1,4 +1,4 @@
-Description [![Build Status](https://travis-ci.org/hipsnip/admin-user.png)](https://travis-ci.org/hipsnip/admin-user)
+Description [![Build Status](https://travis-ci.org/hipsnip-cookbooks/admin-user.png)](https://travis-ci.org/hipsnip-cookbooks/admin-user)
 ===========
 This cookbook is used to set up a single shared admin user on a host, and then set
 up a list of SSH keys to log in to it.
