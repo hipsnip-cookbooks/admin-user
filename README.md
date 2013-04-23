@@ -53,7 +53,7 @@ key for "jack", and not "jill".
 
 Development
 ============
-Please refer to our wiki page [here](https://github.com/hipsnip/cookbook-development/wiki/Developing-and-Testing)
+Please refer to the Readme [here](https://github.com/hipsnip-cookbooks/cookbook-development/blob/master/README.md)
 
 
 License and Author
