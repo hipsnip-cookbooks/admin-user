@@ -4,11 +4,11 @@ maintainer_email "adam@hipsnip.com"
 license          "Apache 2.0"
 description      "Sets up a shared admin user to manage the system"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          "1.1.0"
+version          "1.1.1"
 supports 'ubuntu', ">= 10.04"
 supports 'centos', ">= 5.8"
 
-depends "sudo", "~> 2.0.4"
+depends "sudo"
 
 attribute "admin-user/user",
   :display_name => "User",
