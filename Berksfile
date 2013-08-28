@@ -4,4 +4,4 @@ metadata
 
 cookbook "apt"
 cookbook "yum"
-cookbook "minitest-handler", "~> 0.1.7"
+cookbook "minitest-handler", "~> 0.2.1"
