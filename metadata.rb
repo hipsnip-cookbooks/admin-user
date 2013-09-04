@@ -8,7 +8,7 @@ version          "1.1.1"
 supports 'ubuntu', ">= 10.04"
 supports 'centos', ">= 5.8"
 
-depends "sudo"
+depends "sudo", ">= 2.2.0"
 
 attribute "admin-user/user",
   :display_name => "User",
